@@ -5,3 +5,5 @@ This code is a minimum working example that simulates a magnetic microrheology e
 ![magnetic_bead_schematic](https://github.com/user-attachments/assets/6166a5e0-24e4-4407-a5e2-0fcdb0ed1a14)
 
 ![GIF_images](https://github.com/user-attachments/assets/e06c6931-f2e3-4c38-9da0-ddd683ba437a)
+
+test
