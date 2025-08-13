@@ -10,6 +10,7 @@ from shutil import copyfile
 from mpi4py import MPI
 import matplotlib.pyplot as plt
 
+#TEST
 # Set FEniCS parameters for optimization and numerical stability
 parameters['linear_algebra_backend'] = 'PETSc'  # Use PETSc for efficient linear algebra
 parameters['form_compiler']['representation'] = 'uflacs'  # Optimized representation for form compilation
